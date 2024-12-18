@@ -1,5 +1,4 @@
 import React from "react";
-import { FaLaptop } from "react-icons/fa";
 
 const LearnItem = ({ icon, className, learnName, learnP }) => {
   return (
