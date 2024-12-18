@@ -40,8 +40,7 @@ export default {
       saira: ["Saira", 'sans-serif'],
       inter: ["Inter", 'sans-serif'],
     },
-    
-
+  
   },
   
 }
